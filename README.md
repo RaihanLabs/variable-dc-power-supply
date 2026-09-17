@@ -30,7 +30,7 @@
 
 ---------
 ---------
-##= Author
+## Author
 - **Name:** [Raihan Ahammed](www.linkedin.com/in/raihan-ahammed-dev)
 - **Social:** [Facebook](https://www.facebook.com/raihan.ahammed.39794)
 - **E-mail:** <raihan.dev.mail@gmail.com>
